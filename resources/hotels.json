@@ -1,0 +1,1787 @@
+{
+    "Anantara Sahara Tozeur Resort & Villas": {
+        "pays": "Tunisie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Bariloche Edelweiss": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Buenos Aires 9 de Julio": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Buenos Aires City": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Buenos Aires Florida": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Buenos Aires Latino": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Buenos Aires Tango": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Buenos Aires Centro Histórico": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection Buenos Aires Crillon": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Buenos Aires Jousten": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Buenos Aires Lancaster": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Córdoba Panorama": {
+        "pays": "Argentine",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Córdoba Urbano": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Gran Hotel Provincial": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Hotel Casino": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Mendoza Cordillera": {
+        "pays": "Argentine",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Curitiba The Five": {
+        "pays": "Brésil",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Antofagasta": {
+        "pays": "Chili",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Iquique": {
+        "pays": "Chili",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Ciudad de Santiago": {
+        "pays": "Chili",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Plaza Santiago": {
+        "pays": "Chili",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection Santiago Casacostanera": {
+        "pays": "Chili",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Barranquilla Smartsuites Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Bogotá Boheme Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Bogotá Pavillon Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Bogotá Urban 26 Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Bogotá Urban 93 Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Collection Bogotá Andino Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Collection Bogotá Hacienda Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Collection Bogotá Teleport Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Collection Bogotá Terra 100 Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Collection Bogotá WTC Royal": {
+        "pays": "Colombie",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Cali Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Cartagena Urban Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Collection Medellín Royal": {
+        "pays": "Colombie",
+        "éco-friendly": false,
+        "étoiles": "0"
+    },
+    "NH Capri La Habana": {
+        "pays": "Cuba",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Victoria La Habana": {
+        "pays": "Cuba",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Quito Royal": {
+        "pays": "Équateur",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection New York Madison Avenue": {
+        "pays": "États-Unis",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Haiti El Rancho": {
+        "pays": "Haïti",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Cancún Airport": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Coatzacoalcos": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Collection Guadalajara Providencia": {
+        "pays": "Mexique",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection León Expo": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Mérida Paseo Montejo": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Mexico City Airport T2": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Mexico City Centro Histórico": {
+        "pays": "Mexique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Mexico City Reforma": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Mexico City Santa Fe": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Mexico City Valle Dorado": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Monterrey San Pedro": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Monterrey La Fe": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Puebla Centro Histórico": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Puebla Finsa": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Queretaro": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH San Luis Potosí": {
+        "pays": "Mexique",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Montevideo Columbia": {
+        "pays": "Uruguay",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Berlin Alexanderplatz": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Berlin City Ost": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Berlin Kurfürstendamm": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Berlin Potsdamer Platz": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Berlin Mitte Friedrichstrasse": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Berlin Mitte am Checkpoint Charlie": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "nhow Berlin": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Bingen": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Collection Köln Mediapark": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Köln Altstadt": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Dortmund": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Dresden Altmarkt": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Dresden Neustadt": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Düsseldorf City": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Düsseldorf City Nord": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Düsseldorf Königsallee": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Erlangen": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Essen": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Frankfurt City": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Airport": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Airport West": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Messe": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Mörfelden Conference Center": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Niederrad": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Frankfurt Villa": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Fürth Nürnberg": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Hamburg City": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Hamburg Altona": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Hamburg Horner Rennbahn": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Hamburg Mitte": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Hannover": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Heidelberg": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Hirschberg Heidelberg": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Ingolstadt": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Leipzig Messe": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Leipzig Zentrum": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Ludwigsburg": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Magdeburg": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Mannheim": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Mannheim Viernheim": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection München Bavaria": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH München Airport": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH München City Süd": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH München Messe": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH München Ost Conference Center": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH München Unterhaching": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Klösterle Nördlingen": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Nürnberg City": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Oberhausen": {
+        "pays": "Allemagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Potsdam": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Schwerin": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Stuttgart Airport": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Stuttgart Sindelfingen": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Weinheim": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Wiesbaden": {
+        "pays": "Allemagne",
+        "éco-friendly": true,
+        "étoiles": "0"
+    },
+    "NH Andorra La Vella": {
+        "pays": "Andorre",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Graz City": {
+        "pays": "Autriche",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Salzburg City": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Wien Zentrum": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Danube City": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Vienna Airport Conference Center": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Wien Belvedere": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Wien City": {
+        "pays": "Autriche",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Antwerp Centre": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brugge": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels Airport": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels Carrefour Europe": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels EU Berlaymont": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels Grand Place Arenberg": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels Louise": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Brussels Stéphanie": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Brussels Centre": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Brussels Grand Sablon": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "nhow Brussels Bloom": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Gent Belfort": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Mechelen": {
+        "pays": "Belgique",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Campo de Gibraltar": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Alicante": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Palacio de Aranjuez": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Palacio de Avilés": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Gran Hotel Casino Extremadura": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Barcelona Diagonal Center": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Barcelona Eixample": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Barcelona Entenza": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Barcelona Les Corts": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Barcelona Stadium": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Barcelona Constanza": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Barcelona Gran Hotel Calderón": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Barcelona Pódium": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Porta Barcelona": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Sant Boi": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Sants Barcelona": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Bilbao Deusto": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Collection Villa de Bilbao": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH La Avanzada": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Palacio de Burgos": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Cáceres Palacio de Oquendo": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Campo Cartagena": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Cartagena": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Castellón Mindoro": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Castellón Turcosa": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Ciudad Real": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Amistad Córdoba": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Córdoba Califa": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Ciudad de Cuenca": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Gijón": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Granada Victoria": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Luz Huelva": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Avenida Jerez": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection A Coruña Finisterre": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Imperial Playa": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Las Palmas Playa Las Canteras": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Collection León Plaza Mayor": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Lleida Pirineos": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Logroño": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Logroño Herencia Rioja": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Alcorcón": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Madrid Abascal": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Madrid Colón": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Madrid Eurobuilding": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Madrid Gran Vía": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Madrid Palacio de Tepa": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Madrid Paseo del Prado": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Madrid Suecia": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Leganés": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Madrid Alonso Martínez": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Madrid Atocha": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Madrid Balboa": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Madrid Barajas Airport": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Madrid Chamberí": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Madrid Lagasca": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Madrid Las Tablas": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Madrid Nacional": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Madrid Paseo de la Habana": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Madrid Príncipe de Vergara": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Madrid Ribera del Manzanares": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Madrid Sur": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Madrid Ventas": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Madrid Zurbano": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Pozuelo Ciudad de la Imagen": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Villa de Coslada": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Málaga": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Anantara Villa Padierna Palace Benahavís Marbella Resort": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Marbella": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH San Pedro de Alcántara": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Amistad Murcia": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Ourense": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Oviedo Principado": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Pamplona Iruña Park": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Ciutat de Reus": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Santiago de Compostela": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection San Sebastián Aránzazu": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Salamanca Palacio de Castellanos": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Salamanca Puerta de la Catedral": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Tenerife": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Ciudad de Santander": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Ciudad de Zaragoza": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Gran Hotel de Zaragoza": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Sport": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Collection Sevilla": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Sevilla Plaza de Armas": {
+        "pays": "Espagne",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Ciudad de Valencia": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Collection Valencia Colón": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Valencia Center": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Valencia Las Artes": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Valencia Las Ciencias": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "3"
+    },
+    "NH Ciudad de Valladolid": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Valladolid Bálago": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Vigo": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Canciller Ayala Vitoria": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Zamora Palacio del Duero": {
+        "pays": "Espagne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Lyon Airport": {
+        "pays": "France",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Marseille": {
+        "pays": "France",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "nhow Marseille": {
+        "pays": "France",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Nice": {
+        "pays": "France",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Toulouse Airport": {
+        "pays": "France",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Anantara New York Palace Budapest Hotel": {
+        "pays": "Hongrie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Budapest City": {
+        "pays": "Hongrie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Budapest City Center": {
+        "pays": "Hongrie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "The Marker Hotel": {
+        "pays": "Irlande",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Ancona": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Bergamo": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Orio al Serio": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Bologna Villanova": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Bologna de la Gare": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Caltagirone Villa San Mauro": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Catania Centro": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Catania Parco Degli Aragonesi": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Grand Hotel Convento di Amalfi": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Firenze Palazzo Gaddi": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Firenze Porta Rossa": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Firenze": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Genova Marina": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Genova Centro": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH La Spezia": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Lecco Pontevecchio": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Milano Porta Nuova": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Milano President": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Linate": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano 2": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano 2 Residence": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano Concordia": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano Congress Centre": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Milano Fiera": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano Machiavelli": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano Palazzo Moscova": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Milano Touring": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "nhow Milano": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Napoli Panorama": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Padova": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Palermo": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Parma": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Pisa": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Ravenna": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "Anantara Palazzo Naiadi Rome Hotel": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection Roma Centro": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Roma Fori Imperiali": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Roma Giustiniano": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Roma Palazzo Cinquecento": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Roma Vittorio Veneto": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Roma Villa Carpegna": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Savona Darsena": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Siena": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Taormina": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Trento": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Trieste": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Torino Piazza Carlina": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Torino Centro": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Torino Lingotto Congress": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Torino Santo Stefano": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Venezia Grand Hotel Palazzo dei Dogi": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Collection Venezia Murano Villa": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Venezia Laguna Palace": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Venezia Rio Novo": {
+        "pays": "Italie",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Venezia Santa Lucia": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Palazzo Verona": {
+        "pays": "Italie",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Bratislava Gate One": {
+        "pays": "Slovaquie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Luxembourg": {
+        "pays": "Luxembourg",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amersfoort": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Caransa": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Centre": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Museum Quarter": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Noord": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Schiller": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Schiphol Airport": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Amsterdam Zuid": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH City Centre Amsterdam": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Amsterdam Barbizon Palace": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Amsterdam Doelen": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Collection Amsterdam Flower Market": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Amsterdam Grand Hotel Krasnapolsky": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "nhow Amsterdam RAI": {
+        "pays": "Pays-Bas",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Arnhem Rijnhotel": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Bussum Jan Tabak": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Capelle": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Eindhoven Centre": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "NH Eindhoven Conference Centre Koningshof": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Groningen": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Groningen Hotel de Ville": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Atlantic Den Haag": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Den Haag": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Maastricht": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Naarden": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Noordwijk Conference Centre Leeuwenhorst": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Veluwe Sparrenhorst": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Atlanta Rotterdam": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "nhow Rotterdam": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Centre Utrecht": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "3"
+    },
+    "NH Utrecht": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Waalwijk": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Zandvoort": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Zoetermeer": {
+        "pays": "Pays-Bas",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Poznan": {
+        "pays": "Pologne",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Anantara Vilamoura Algarve Resort": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "The Residences at Victoria Algarve": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "Tivoli Carvoeiro Algarve Resort": {
+        "pays": "Portugal",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "Tivoli Lagos Algarve Resort": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Tivoli Marina Portimão Algarve Resort": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Tivoli Marina Vilamoura Algarve Resort": {
+        "pays": "Portugal",
+        "éco-friendly": true,
+        "étoiles": "5"
+    },
+    "Tivoli Coimbra": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Avani Avenida Liberdade Lisbon": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Lisboa Liberdade": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Lisboa Campo Grande": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Tivoli Avenida Liberdade Lisboa": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "Tivoli Oriente Lisboa": {
+        "pays": "Portugal",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Porto Batalha": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Porto Jardim": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "Tivoli Palácio de Seteais": {
+        "pays": "Portugal",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "Tivoli Sintra": {
+        "pays": "Portugal",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Collection Olomouc Congress": {
+        "pays": "République Tchèque",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Prague": {
+        "pays": "République Tchèque",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Collection Prague Carlo IV": {
+        "pays": "République Tchèque",
+        "éco-friendly": false,
+        "étoiles": "5"
+    },
+    "NH Prague City": {
+        "pays": "République Tchèque",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Bucharest": {
+        "pays": "Roumanie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH Timisoara": {
+        "pays": "Roumanie",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "NH London Kensington": {
+        "pays": "Royaume-Uni",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "nhow London": {
+        "pays": "Royaume-Uni",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Geneva Airport": {
+        "pays": "Suisse",
+        "éco-friendly": true,
+        "étoiles": "4"
+    },
+    "NH Geneva City": {
+        "pays": "Suisse",
+        "éco-friendly": false,
+        "étoiles": "4"
+    },
+    "The Vyra Suites NH Collection Doha": {
+        "pays": "Qatar",
+        "éco-friendly": false,
+        "étoiles": "5"
+    }
+}

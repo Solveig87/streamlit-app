@@ -71,8 +71,8 @@ def main():
             st.subheader(hotel['nom'])
             st.text(hotel['nb_etoiles'])
             st.image(hotel['image'])
-            lien = "[Pour plus d'infos](upload:"+hotel['url']+")"
-            st.text(lien)
+            lien = "[Pour plus d'infos]("+hotel['url']+")"
+            st.write(lien)
 
 if __name__ == "__main__":
     main()

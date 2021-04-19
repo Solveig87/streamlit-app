@@ -6,7 +6,7 @@ def main():
 
     # Page d'accueil du projet
     st.title("Smart Investment")
-    st.subtitle("Logements écologiques et langues peu dotées")
+    st.header("Logements écologiques et langues peu dotées")
     st.sidebar.header("Projet pour le cours de Techniques web - M2 TAL, Inalco ")
     st.sidebar.info('Auteur : Solveig PODER')
     st.info("Pour vous permettre d'investir l'avenir")

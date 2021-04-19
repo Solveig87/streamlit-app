@@ -20,7 +20,6 @@ def main():
     if radio == "Présentation":
         st.markdown("## Présentation du projet ")
         st.markdown("Cette application conçue avec Streamlit vous permettra de découvrir le domaine des hôtels écologiques et des langues peu dotée et, nous l'espérons, vous donnera envie d'investir dans ces domaines.")
-        st.markdown("### À gauche dans le sidebar, vous trouverez 4 boutons à sélectionner pour aller à la page correspondante: ")
 
         st.markdown("**NH Hotels : présentations**")
         st.markdown("Sur cette page, vous trouverez une présentation du domaine des hôtels écologiques et quelques graphiques effectués avec des données issues du site du groupe NH Hotels. L'objectif est de montrer que l'hôtellerie s'intéresse de plus en plus à l'écologie et que l'écologie n'empêche pas le confort !")
@@ -36,7 +35,7 @@ def main():
 
         
     if radio == "NH Hotels : recherche":
-        hotels_scraping.recherche()
+        hotels_scrapping.recherche()
     
 if __name__ == "__main__":
     main()

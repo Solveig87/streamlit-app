@@ -23,15 +23,15 @@ def print_analyzes():
     df = pd.DataFrame(list(cnt_eco.items()),columns = ["éco-friendly","nombre"]) 
     st.dataframe(df)
 
-    fig = px.pie(df, values='Nombre', names='Catégorie', title="Répartition des hôtels éco-friendly et non éco-friendly :")
+    fig = px.pie(df, values='Nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly :")
     st.write(fig)
 
     fig = plt.figure()
     ax = fig.add_subplot()
-    ax1.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
+    ax.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
             shadow=True, startangle=90)
     ax.axis('equal')
     plt.title('Répartition des hôtels éco-friendly et non éco-friendly')
-    st.write(fig)
+    st.write(ax)
     #plt.savefig("data/graphique.png")
     plt.close()

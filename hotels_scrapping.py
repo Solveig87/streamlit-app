@@ -65,14 +65,14 @@ def main():
 
         hotels = hotels_scrap(user_input.lower(), hotels_url)
 
-        col1, col2 = st.beta_columns(2)
         nb_result = str(len(hotels))+" résultats" if len(hotels) > 1 else str(len(hotels))+" résultat"
         col1.header(nb_result)
         for hotel in hotels:
-            col1.subheader(hotel['nom'])
-            col1.text(hotel['nb_etoiles'])
-            col1.image(hotel['image'])
-            col1.text(hotel['url'])
+            st.subheader(hotel['nom'])
+            st.text(hotel['nb_etoiles'])
+            st.image(hotel['image'])
+            lien = "[Pour plus d'infos](upload:"+hotel['url']+")"
+            st.text(lien)
 
 if __name__ == "__main__":
     main()

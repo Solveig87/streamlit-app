@@ -66,7 +66,7 @@ def main():
         hotels = hotels_scrap(user_input.lower(), hotels_url)
 
         nb_result = str(len(hotels))+" résultats" if len(hotels) > 1 else str(len(hotels))+" résultat"
-        col1.header(nb_result)
+        st.header(nb_result)
         for hotel in hotels:
             st.subheader(hotel['nom'])
             st.text(hotel['nb_etoiles'])

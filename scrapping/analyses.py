@@ -12,7 +12,7 @@ def load_json(js_file):
         return data
 
 def print_analyzes():
-    hotels = load_json('../resources/hotels.json')
+    hotels = load_json('resources/hotels.json')
 
     cnt_eco = Counter()
     cnt_eco['oui'] = len([hotel for hotel, infos in hotels.items() if infos['éco-friendly'] == True])

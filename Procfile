@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run hotels_scrapping.py
+web: sh setup.sh && streamlit run hotels_scrapping_v2.py

@@ -53,7 +53,7 @@ def hotels_scrap(ville):
         return hotels
 
     
-def main():
+def recherche():
 
     st.title("NH Group : eco-friendly hotels")
     user_input = st.text_input("Dans quel ville souhaitez-vous séjourner ?")
@@ -70,6 +70,3 @@ def main():
             st.image(hotel['image'])
             lien = "[Pour plus d'infos]("+hotel['url']+")"
             st.write(lien)
-
-if __name__ == "__main__":
-    main()

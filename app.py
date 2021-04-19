@@ -34,6 +34,9 @@ def main():
         st.markdown("Nous espérons que le travail de qualité effectué par les bénévoles vous donnera envie d'investir !")
 
         
+    if radio == "NH Hotels : chiffres":
+        analyses.print_analyzes()
+        
     if radio == "NH Hotels : recherche":
         hotels_scrapping.recherche()
     

@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import hotels_scraping 
+from scrapping import *
 
 def main():
 

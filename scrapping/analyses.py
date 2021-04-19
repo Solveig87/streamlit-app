@@ -11,26 +11,26 @@ def load_json(js_file):
         data = json.load(f)
         return data
 
-    
-hotels = load_json('../resources/hotels.json')
+def print_analyzes():
+    hotels = load_json('../resources/hotels.json')
 
-cnt_eco = Counter()
-cnt_eco['oui'] = len([hotel for hotel, infos in hotels.items() if infos['éco-friendly'] == True])
-cnt_eco['non'] = len([hotel for hotel, infos in hotels.items() if infos['éco-friendly'] == False])
+    cnt_eco = Counter()
+    cnt_eco['oui'] = len([hotel for hotel, infos in hotels.items() if infos['éco-friendly'] == True])
+    cnt_eco['non'] = len([hotel for hotel, infos in hotels.items() if infos['éco-friendly'] == False])
 
-# ----------- table et pie chart par catégorie -------------
-df = pd.DataFrame(list(cnt_eco.items()),columns = ["éco-friendly","nombre"]) 
-st.dataframe(df)
+    # ----------- table et pie chart par catégorie -------------
+    df = pd.DataFrame(list(cnt_eco.items()),columns = ["éco-friendly","nombre"]) 
+    st.dataframe(df)
 
-fig = px.pie(df, values='Nombre', names='Catégorie', title="Répartition des hôtels éco-friendly et non éco-friendly :")
-st.write(fig)
+    fig = px.pie(df, values='Nombre', names='Catégorie', title="Répartition des hôtels éco-friendly et non éco-friendly :")
+    st.write(fig)
 
-fig = plt.figure()
-ax = fig.add_subplot()
-ax1.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
-        shadow=True, startangle=90)
-ax.axis('equal')
-plt.title('Répartition des hôtels éco-friendly et non éco-friendly')
-st.write(fig)
-#plt.savefig("data/graphique.png")
-plt.close()
+    fig = plt.figure()
+    ax = fig.add_subplot()
+    ax1.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
+            shadow=True, startangle=90)
+    ax.axis('equal')
+    plt.title('Répartition des hôtels éco-friendly et non éco-friendly')
+    st.write(fig)
+    #plt.savefig("data/graphique.png")
+    plt.close()

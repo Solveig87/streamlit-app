@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from matplotlib import rcParams
 import json
 from collections import Counter
+import streamlit as st
 
 def load_json(js_file):
     with open(js_file, 'r') as f:

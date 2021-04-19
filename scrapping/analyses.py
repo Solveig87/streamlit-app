@@ -23,7 +23,7 @@ def print_analyzes():
     df = pd.DataFrame(list(cnt_eco.items()),columns = ["éco-friendly","nombre"]) 
     st.dataframe(df)
 
-    fig = px.pie(df, values='Nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly :")
+    fig = px.pie(df, values='nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly :")
     st.write(fig)
 
     fig = plt.figure()

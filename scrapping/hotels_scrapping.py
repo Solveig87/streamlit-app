@@ -55,15 +55,15 @@ def hotels_scrap(ville):
     
 def recherche():
 
-    st.title("NH Group : eco-friendly hotels")
+    st.header("NH Group : eco-friendly hotels")
     user_input = st.text_input("Dans quel ville souhaitez-vous séjourner ?")
 
     if user_input :
 
         hotels = hotels_scrap(user_input)
 
-        nb_result = str(len(hotels))+" résultats" if len(hotels) > 1 else str(len(hotels))+" résultat"
-        st.header(nb_result)
+        nb_result = "**"+ str(len(hotels)) + " résultats**" if len(hotels) > 1 else str(len(hotels))+" résultat**"
+        st.markdown(nb_result)
         for hotel in hotels:
             st.subheader(hotel['nom'])
             st.text(hotel['nb_etoiles'])

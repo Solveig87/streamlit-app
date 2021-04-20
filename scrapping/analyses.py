@@ -26,7 +26,7 @@ def print_analyzes():
     fig = px.pie(df, values='nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly :")
     st.write(fig)
 
-    fig, ax = plt.subplot()
+    fig, ax = plt.subplots()
     ax.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
             shadow=True, startangle=90)
     ax.axis('equal')

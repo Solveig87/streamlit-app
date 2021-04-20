@@ -32,6 +32,7 @@ def print_analyzes():
             shadow=True, startangle=90)
     ax.axis('equal')
     plt.title('Répartition des hôtels éco-friendly et non éco-friendly')
-    st.write(ax)
+    st.pyplot()
+    st.plotly_chart(fig)
     #plt.savefig("data/graphique.png")
     plt.close()

@@ -35,7 +35,7 @@ def create_df_eco(hotels):
 def create_df_countries(hotels):
     """Génère un dataframe Pandas avec la répartition des hôtels par pays"""
     cnt_country = Counter()
-    for country in set([infos['pays'] for infos in hotels.values()):
+    for country in set([infos['pays'] for infos in hotels.values()]):
         cnt_country[country] = len([hotel for hotel, infos in hotels.items() if infos['pays'] == country])
     df = pd.DataFrame(list(cnt_country.items()),columns = ["pays","nombre"])
     return df

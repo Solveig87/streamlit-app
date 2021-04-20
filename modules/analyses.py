@@ -13,7 +13,6 @@
 
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import json
 from collections import Counter
 import streamlit as st
@@ -34,15 +33,23 @@ def create_df_eco(hotels):
     
 def create_df_countries(hotels):
     """Génère un dataframe Pandas avec la répartition des hôtels par pays"""
-    cnt_country = Counter()
+    cnt_country = {}
     for country in set([infos['pays'] for infos in hotels.values()]):
-        cnt_country[country] = len([hotel for hotel, infos in hotels.items() if infos['pays'] == country])
-    df = pd.DataFrame(list(cnt_country.items()),columns = ["pays","nombre"])
+        cnt_country[country] = Counter()
+        cnt_country[country]['écolo'] = len([hotel for hotel, infos in hotels.items() if infos['pays'] == country and infos["éco-friendly"] == True])
+        cnt_country[country]['non écolo'] = len([hotel for hotel, infos in hotels.items() if infos['pays'] == country and infos["éco-friendly"] == False])
+    df = pd.DataFrame.from_dict(cnt_country, orient='index')
     return df
     
 def create_df_stars(hotels):
     """Génère un dataframe Pandas avec la répartition des hôtels par nombre d'étoiles"""
-    pass
+    cnt_stars = {}
+    for nb in range(6):
+        cnt_stars[str(nb)] = Counter()
+        cnt_stars[str(nb)]['écolo'] = len([hotel for hotel, infos in hotels.items() if infos['étoiles'] == str(nb) and infos["éco-friendly"] == True])
+        cnt_stars[str(nb)]['non écolo'] = len([hotel for hotel, infos in hotels.items() if infos['étoiles'] == str(nb) and infos["éco-friendly"] == False])
+    df = pd.DataFrame.from_dict(cnt_stars, orient='index')
+    return df
 
 def print_analyzes():
     """Charge le json avec la liste des hôtels NH et produit des graphiques avec des analyses, les affiche sur l'appli Streamlit"""
@@ -50,23 +57,21 @@ def print_analyzes():
     hotels = load_json('data/hotels.json')
 
     df = create_df_eco(hotels)
-    fig = px.pie(df, values='nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly")
+    st.markdown("## Répartition des hôtels éco-friendly et non éco-friendly")
+    fig = px.pie(df, values='nombre', names='éco-friendly')
     st.write(fig)
-    st.write("Les établissements écologiques sont majoritaires chez NH Hotels. La marque est en effet engagée dans la protection de l'environnement.")
+    st.markdown("Les établissements écologiques sont majoritaires chez NH Hotels. La marque est en effet engagée dans la protection de l'environnement. Depuis 2008, l'empreinte carbone de ses hôtels a été réduite de **70 %**. Elle a également enregistré une réduction de **28 %** des coûts en énergie et de **30 %** des coûts en eau. Ces initiatives ont été reconnues par l'Organisation internationale de normalisation et certains de ses hôtels sont titulaires d'un certificat d'énergie durable (ISO).")
+    st.write("Plus d'informations sur [cette page](https://www.nh-hotels.fr/environnement/hotels-ecologiques-developpement-durable)")
     
-    # Création de deux colonnes pour comparer les données des hôtels écolo et des autres hôtels
-    col1, col2 = st.beta_columns(2)
-    
-    # On sépare les données en deux : hôtels eco-friendly et non eco-friendly
-    eco_hotels = dict((hotel,infos) for hotel, infos in hotels.items() if infos['éco-friendly'] == True)
-    neco_hotels = dict((hotel,infos) for hotel, infos in hotels.items() if infos['éco-friendly'] == False)
-    
-    df = create_df_countries(eco_hotels)
-    fig = px.pie(df, values='nombre', names='pays', title="Répartition des hôtels éco-friendly par pays")
-    col1.write(fig)
-    
-    df = create_df_countries(neco_hotels)
-    fig = px.pie(df, values='nombre', names='pays', title="Répartition des hôtels non éco-friendly par pays")
-    col2.write(fig)
-    
+    df = create_df_countries(hotels)
+    st.markdown("## Répartition des hôtels par pays")
+    fig = px.bar(df, y=['écolo', 'non écolo'])
+    st.write(fig)
+    st.markdown("**Belgique**, **Allemagne**, **Autriche**, **Pays-Bas** et **Italie** ont une majorité d'hôtels écologiques. L'**Espagne**, où se trouvent le plus grand nombre d'hôtels du groupe, a encore quelques efforts à fournir puisque seulement un tiers de ses hôtels sont signalés comme eco-friendly. Il est difficile de tirer des conclusions pour les autres pays, où le nombre d'hôtels est peu élevé.")
+
+    df = create_df_stars(hotels)
+    st.markdown("## Répartition des hôtels par nombre d'étoiles")
+    fig = px.bar(df, y=['écolo', 'non écolo'])
+    st.write(fig)
+    st.write("Le groupe NH Hotels possède une majorité d'hôtels **4 étoiles** dont la plupart sont écologiques. Presque la moitié des hôtels **5 étoiles** sont eco-friendly. On peut facilement en conclure que le respect de l'environnement n'empêche pas un certain standing et que la cible de ce marché ne concerne pas des citoyens aux revenus modestes mais au contraire des personnes aisées.")
 

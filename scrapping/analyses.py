@@ -26,13 +26,12 @@ def print_analyzes():
     fig = px.pie(df, values='nombre', names='éco-friendly', title="Répartition des hôtels éco-friendly et non éco-friendly :")
     st.write(fig)
 
-    fig = plt.figure()
-    ax = fig.add_subplot()
+    fig, ax = plt.subplot()
     ax.pie(cnt_eco.values(), labels=cnt_eco.keys(), autopct='%1.1f%%',
             shadow=True, startangle=90)
     ax.axis('equal')
     plt.title('Répartition des hôtels éco-friendly et non éco-friendly')
-    st.pyplot()
+    st.pyplot(fig)
     st.plotly_chart(fig)
     #plt.savefig("data/graphique.png")
     plt.close()

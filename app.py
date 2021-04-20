@@ -1,6 +1,19 @@
+#!/usr/bin/python3
+# coding: utf-8
+
+"""
+    TECHNIQUES WEB (Scrapping Project)
+    ------------------------------------------
+    
+    This module runs the Streamlit app
+    
+    :copyright: © 2021 by Solveig PODER.
+    :license: Creative Commons, see LICENSE for more details.
+"""
+
 import streamlit as st
 import pandas as pd
-from scrapping import *
+from modules import *
 
 def main():
 
@@ -12,11 +25,11 @@ def main():
     st.sidebar.subheader("M2 TAL - Inalco ")
     st.sidebar.info('Auteur : Solveig PODER')
 
-    # Radio selector sur sidebar pour aller aux pages différentes
+    # Radio selector sur sidebar pour accéder aux différentes pages
     st.sidebar.header("Votre sélection :")
     radio = st.sidebar.radio(label="", options=['Présentation','NH Hotels : chiffres', 'NH Hotels : recherche', 'Ntealan'])
 
-    # Si bouton 'Présentation' sélectionné
+    # Page de présentation du projet
     if radio == "Présentation":
         st.markdown("## Présentation du projet ")
         st.markdown("Cette application conçue avec Streamlit vous permettra de découvrir le domaine des hôtels écologiques et des langues peu dotée et, nous l'espérons, vous donnera envie d'investir dans ces domaines.")
@@ -33,12 +46,17 @@ def main():
         st.markdown("Vous pourrez consulter sur cette page quelques articles du dictionnaire en ligne de langues africaines peu dotées Ntealan.")
         st.markdown("Nous espérons que le travail de qualité effectué par les bénévoles vous donnera envie d'investir !")
 
-        
+    # Page d'analyses des données du site de NH Hotels
     if radio == "NH Hotels : chiffres":
         analyses.print_analyzes()
         
+    # Page de recherches d'hôtels écologiques sur le site de NH Hotels
     if radio == "NH Hotels : recherche":
         hotels_scrapping.recherche()
+        
+    # Page de présentation du dictionnaire en ligne de Ntealan
+    if radio == "Ntealan":
+        pass
     
 if __name__ == "__main__":
     main()

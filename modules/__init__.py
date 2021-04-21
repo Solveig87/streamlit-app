@@ -1,3 +1,4 @@
-__all__ = ["hotels_scrapping", "analyses"]
-from .hotels_scrapping import recherche, hotels_scrap
-from .analyses import load_json, print_analyzes
+__all__ = ["hotels_scrapping", "analyses", "prez_ntealan"]
+from .hotels_scrapping import recherche
+from .analyses import print_analyzes
+from .prez_ntealan import ntealan_presentation

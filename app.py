@@ -56,7 +56,7 @@ def main():
         
     # Page de présentation du dictionnaire en ligne de Ntealan
     if radio == "Ntealan":
-        pass
+        prez_ntealan.ntealan_presentation()
     
 if __name__ == "__main__":
     main()

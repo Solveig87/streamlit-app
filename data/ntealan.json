@@ -1,0 +1,643 @@
+{
+    "a": {
+        "catégorie": "Pronom (pron.)",
+        "traductions": [
+            "il",
+            "elle"
+        ]
+    },
+    "a 2": {
+        "catégorie": "Interjection (interj.)",
+        "traductions": [
+            "expression de protestation ou de défi"
+        ]
+    },
+    "a 3": {
+        "catégorie": "Adverbe (adv.)",
+        "traductions": [
+            "seulement"
+        ]
+    },
+    "á": {
+        "catégorie": "Préposition (prép.)",
+        "traductions": [
+            "à",
+            "au",
+            "à la",
+            "sous",
+            "sur",
+            "dans"
+        ]
+    },
+    "á 2": {
+        "catégorie": "Pronom Personnel (pers.)",
+        "traductions": [
+            "2PL"
+        ]
+    },
+    "á 3": {
+        "catégorie": "Pronom (pron.)",
+        "traductions": [
+            "lui",
+            "il",
+            "elle"
+        ]
+    },
+    "alá klu": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "plante du pied"
+        ]
+    },
+    "alá pū": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "paume de la main"
+        ]
+    },
+    "malēm, mɛ́lēm": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "sorte d’épice"
+        ]
+    },
+    "malɛ̄ŋge": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "balafon avec neuf tons"
+        ]
+    },
+    "alísa, alēsa": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "lame de rasoir emprunté de l’anglais: razor"
+        ]
+    },
+    "alísa, alēsa 2": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "lame de rasoir emprunté de l’anglais: razor"
+        ]
+    },
+    "amɛt, amat": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "boubou",
+            "ganndoura"
+        ]
+    },
+    "ami, ammɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "gorge",
+            "cou d’animal"
+        ]
+    },
+    "ammɛ, ami": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "gorge",
+            "cou d’animal"
+        ]
+    },
+    "ŋá’nchu": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "Gousse beige pour la sauce jaune et mpfʉ",
+            "Condiment"
+        ]
+    },
+    "mandə́’, mendʉɔ́’": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "espèce d’oiseau",
+            "toupie"
+        ]
+    },
+    "andiŋa, ŋgiŋɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "singe roux"
+        ]
+    },
+    "andʉ̄ɔ̄, ndɔ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "chauve-souris"
+        ]
+    },
+    "ŋáŋa": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "cloche",
+            "sonnerie"
+        ]
+    },
+    "maŋgáńjʉ’": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "ancêtre"
+        ]
+    },
+    "aŋkandiŋa, ŋkɛŋgiŋɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "banane"
+        ]
+    },
+    "mannɛ, meŋi": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "mère des jumeaux"
+        ]
+    },
+    "anta, kʉtshɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "grillon"
+        ]
+    },
+    "asaŋgia, saŋgia, acafhɔ́o": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "variété de champignon"
+        ]
+    },
+    "asɛnza": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "pagne"
+        ]
+    },
+    "ashuŋne, asoŋli": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "parole",
+            "langue parlée"
+        ]
+    },
+    "asiilíi, asiinɛ́": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "glissant"
+        ]
+    },
+    "asiinɛ́, asiilíi": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "glissant"
+        ]
+    },
+    "asɔba, asɔpɔ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "fils ainé dans une grande famille"
+        ]
+    },
+    "astok, asitɔ́ɔk": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "chaussette"
+        ]
+    },
+    "aswɛnɛ́, afyɛlíi": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "étroit",
+            "serré"
+        ]
+    },
+    "aswhɛli livem, eswiŋlevem": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "sorte de diarrhée infantile"
+        ]
+    },
+    "atʉ́é, háŋyaŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "fer à repasser emprunté de l’anglais: iron"
+        ]
+    },
+    "atʉɛ́, atʉee": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "dur",
+            "rigide"
+        ]
+    },
+    "atʉee, atʉɛ": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "dur",
+            "rigide"
+        ]
+    },
+    "ateŋnɛ́, ateŋlíi": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "incliné",
+            "tordu"
+        ]
+    },
+    "matlási, mɛtlási": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "matelas Emprunté de l’anglais: mattress"
+        ]
+    },
+    "matsa’cukwɛt, mɛtsa’ cúkwɛt": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "moineau"
+        ]
+    },
+    "atsagla, sáap": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "lime"
+        ]
+    },
+    "atsá-mézeŋɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "miséricorde",
+            "pitié"
+        ]
+    },
+    "atséké lésɔŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "gencive"
+        ]
+    },
+    "atsemte, atemte": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "mélange"
+        ]
+    },
+    "atseŋɛ khu": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "talon"
+        ]
+    },
+    "atseŋɛ ŋ́gyá": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "famille",
+            "fondation"
+        ]
+    },
+    "atseŋɛ pū́": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "coude"
+        ]
+    },
+    "atsetsá, tsitsá": {
+        "catégorie": "Interjection (interj.)",
+        "traductions": [
+            "promesse de vengeance"
+        ]
+    },
+    "azeŋ-ntɔŋ, sɛtntɔ̄ŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "meningite"
+        ]
+    },
+    "mbʉ’": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "force",
+            "puissance"
+        ]
+    },
+    "mba": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "concession",
+            "habitation"
+        ]
+    },
+    "mba’": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "brousse"
+        ]
+    },
+    "mbā, mba-nnɛ́": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "foureau"
+        ]
+    },
+    "mba’a, amba’a": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "bouton"
+        ]
+    },
+    "mbákne": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "inutilité",
+            "superu"
+        ]
+    },
+    "lebaka, licu'o": {
+        "catégorie": "Verbe (v.)",
+        "traductions": [
+            "entasser, accumuler"
+        ]
+    },
+    "mbalɔ́ɔk": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "malchance"
+        ]
+    },
+    "mbaŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "clou"
+        ]
+    },
+    "mbaŋ 2": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "noyau",
+            "grain",
+            "rein"
+        ]
+    },
+    "mbaŋa ntwɛ̄t": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "sorte de chenille brulante"
+        ]
+    },
+    "mbaŋne paŋné, mbaŋli paŋli": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "croix"
+        ]
+    },
+    "mba-nnɛ́, mbā": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "foureau"
+        ]
+    },
+    "mbap": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "viande",
+            "chair"
+        ]
+    },
+    "mbapt'akwé, mbaptɛkwɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "viande sans os",
+            "sorte de plante (ʉricalysia)"
+        ]
+    },
+    "mbaptɛkwɛ́, mbapt'akwé": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "viande sans os",
+            "sorte de plante (ʉricalysia)"
+        ]
+    },
+    "mbásíku, mbasku": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "vélo"
+        ]
+    },
+    "mbasku, mbásíku": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "vélo Emprunté de l'anglais: bicycle"
+        ]
+    },
+    "lebāt": {
+        "catégorie": "Verbe (v.)",
+        "traductions": [
+            "etre méchant",
+            "etre sévère"
+        ]
+    },
+    "mbaya, mbɛya": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "danse acrobatique"
+        ]
+    },
+    "mbe, mbə": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "corps",
+            "tronc"
+        ]
+    },
+    "mbē, mbɛ̄": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "larve de hanneton"
+        ]
+    },
+    "mbə, mbe": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "corps",
+            "tronc"
+        ]
+    },
+    "mbə’, mbwɔ’": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "embonpoint",
+            "fagot",
+            "botte"
+        ]
+    },
+    "mbɛ̄, mbē": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "larve de hanneton"
+        ]
+    },
+    "mbēk": {
+        "catégorie": "Adjectif (adj.)",
+        "traductions": [
+            "vert (pas mur)",
+            "cru"
+        ]
+    },
+    "mbeleék, mblik": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "brique"
+        ]
+    },
+    "mbembɔ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "route",
+            "carrossable"
+        ]
+    },
+    "mbeŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "pluie"
+        ]
+    },
+    "mbɛya, mbaya": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "danse acrobatique"
+        ]
+    },
+    "mbhʉ̄": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "chien"
+        ]
+    },
+    "mbhʉɛ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "sorte de fruit noir"
+        ]
+    },
+    "mbhʉɛŋgɔ̄ŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "sillon"
+        ]
+    },
+    "mbhi, mvhɔ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "devant"
+        ]
+    },
+    "mbi, mbi-ŋkíán": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "couteau special pour tailler le raphia"
+        ]
+    },
+    "bía": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "bière"
+        ]
+    },
+    "mbimbím, mbímbíŋ, sáambíŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "cafard"
+        ]
+    },
+    "mbímbíŋ, sáambíŋ, mbimbím": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "cafard"
+        ]
+    },
+    "mbīŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "forêt"
+        ]
+    },
+    "mbi-ŋkíá, mbi": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "couteau special pour tailler le raphia"
+        ]
+    },
+    "mbíno, mbínu": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "l'ouest"
+        ]
+    },
+    "mbínu, mbíno": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "l'ouest"
+        ]
+    },
+    "mbip-memvhō, mbyop-mvhɔ̄": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "berger"
+        ]
+    },
+    "mbiyāŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "arachides"
+        ]
+    },
+    "mblɛ́ɛ, mbret": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "pain"
+        ]
+    },
+    "mblɛzíiŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "essence",
+            "gasoil"
+        ]
+    },
+    "mblik, mbeleék": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "brique"
+        ]
+    },
+    "mblúsi": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "brosse"
+        ]
+    },
+    "mbŋ": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "boule"
+        ]
+    },
+    "mbo, mbuo": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "rancune"
+        ]
+    },
+    "mbɔ": {
+        "catégorie": "Conjonction (conj.)",
+        "traductions": [
+            "aussi",
+            "avec",
+            "et"
+        ]
+    },
+    "mbɔ̄": {
+        "catégorie": "Nom (n.)",
+        "traductions": [
+            "âme",
+            "créateur",
+            "destin"
+        ]
+    }
+}

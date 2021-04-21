@@ -14,6 +14,7 @@
 import json
 import streamlit as st
 import random
+import pandas as pd
 
 def load_json(js_file):
     """Récupère le contenu d'un fichier json dans un dictionnaire"""
@@ -24,10 +25,15 @@ def load_json(js_file):
 def show_article(articles):
     """Prend en entrée un dictionnaire des articles Ntealan et en affiche un hasard"""
     mot, infos = random.choice(list(articles.items()))
-    st.subheader(mot)
-    st.info(infos["catégorie"])
+    st.title(mot)
+    col1, col2 = st.beta_columns(2)
+    col1.markdown("**Catégorie grammaticale**")
+    col1.markdown("**Traduction(s) française(s)**")
+    col2.write(infos["catégorie"])
+    i = 1
     for trad in infos["traductions"]:
-        st.write(trad)
+        col2.write(". ".join([str(i), trad]))
+        i+=1
 
 def ntealan_presentation():
     """Présente le projet Ntealan, charge le json avec les articles de dictionnaires Ntealan et en affiche un au hasard"""
@@ -41,7 +47,7 @@ def ntealan_presentation():
     st.markdown("## Le dictionnaire collaboratif de NTeALan")
     st.markdown("La plateforme de Dictionnaire Collaboratif de NTeALan permet aux Africains et spécialistes de langues et cultures africaines de partager et échanger sur leurs ressources culturelles et linguistiques.​ C’est un projet open source de par son caractère collaboratif, et du fait de l’importante quantité de ressources à collecter. Cette plateforme facilite la collecte et l’échange des données.")
     
-    st.markdown("### Un exemple d'article")
+    st.markdown("## Un exemple d'article")
     show_article(articles)
 
 

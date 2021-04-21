@@ -48,11 +48,11 @@ def main():
 
     # Page d'analyses des données du site de NH Hotels
     if radio == "NH Hotels : chiffres":
-        analyses.print_analyzes()
+        prez_hotels.print_analyzes()
         
     # Page de recherches d'hôtels écologiques sur le site de NH Hotels
     if radio == "NH Hotels : recherche":
-        hotels_scrapping.recherche()
+        recherche_hotels.recherche()
         
     # Page de présentation du dictionnaire en ligne de Ntealan
     if radio == "Ntealan":

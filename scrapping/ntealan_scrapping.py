@@ -14,6 +14,9 @@
 import time
 from selenium import webdriver
 import json
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 def main():
     """Génère un fichier json avec les 100 premiers articles du dictionnaire Ntealan
@@ -40,8 +43,8 @@ def main():
     login.click()
     pseudo = [elem for elem in browser.find_elements_by_tag_name("input") if elem.get_attribute('id') == "pseudo"][0]
     mdp = [elem for elem in browser.find_elements_by_tag_name("input") if elem.get_attribute('id') == "password"][0]
-    pseudo.send_keys("Solsol")
-    mdp.send_keys("SlimeDQ9")
+    pseudo.send_keys(os.getenv('PSEUDO'))
+    mdp.send_keys(os.getenv('PASSWORD'))
     connexion = browser.find_element_by_class_name("modal-footer").find_element_by_tag_name("button")
     connexion.click()
 

@@ -17,9 +17,9 @@
 
 Avant de lancer, créez un environnement virtuel et installez les librairies :
 
-```python -m virtualenv venv
-source venv/bin/activate
-pip install -r requirements. txt```
+```python -m virtualenv venv```
+```source venv/bin/activate```
+```pip install -r requirements. txt```
 
 Pour lancer l'application, placez-vous à la racine du répertoire et tapez ```streamlit run app.py``` dans le terminal, puis rendez-vous à l'URL qui s'affiche.
 

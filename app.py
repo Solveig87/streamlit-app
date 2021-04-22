@@ -32,7 +32,7 @@ def main():
     # Page de présentation du projet
     if radio == "Présentation":
         st.markdown("## Présentation du projet ")
-        st.markdown("Cette application conçue avec Streamlit vous permettra de découvrir le domaine des hôtels écologiques et des langues peu dotée et, nous l'espérons, vous donnera envie d'investir dans ces domaines.")
+        st.markdown("Cette application conçue avec Streamlit vous permettra de découvrir le domaine des hôtels écologiques et des langues peu dotées et, nous l'espérons, vous donnera envie d'investir dans ces domaines.")
 
         st.markdown("**NH Hotels : quelques statistiques**")
         st.markdown("Sur cette page, vous trouverez une présentation du domaine des hôtels écologiques et quelques graphiques effectués avec des données issues du site du groupe NH Hotels. L'objectif est de montrer que l'hôtellerie s'intéresse de plus en plus à l'écologie et que l'écologie n'empêche pas le confort !")
@@ -43,8 +43,8 @@ def main():
         st.markdown("Afin de vous assurer des informations toujours à jour, notre moteur de recherche cherche en temps réel sur le site de NH Hotels, ce qui peut occasionner une certaine lenteur.")
 
         st.markdown("**NTeALan : dictionnaire de langues africaines**")
-        st.markdown("Vous pourrez consulter sur cette page quelques articles du dictionnaire en ligne de langues africaines peu dotées NTeALan.")
-        st.markdown("Nous espérons que le travail de qualité effectué par les bénévoles vous donnera envie d'investir !")
+        st.markdown("Sur cette page, vous en apprendrez plus sur les langues peu dotées et l'association NTeALan vous sera présentée ainsi que son projet de dictionnaire collaboratif.")
+        st.markdown("Nous espérons que le travail de qualité effectué par les bénévoles de cette association vous donnera envie d'investir !")
 
     # Page d'analyses des données du site de NH Hotels
     if radio == "NH Hotels : chiffres":

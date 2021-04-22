@@ -59,6 +59,8 @@ def print_analyzes():
     st.markdown("## L'accord de Paris et l'hôtellerie")
     st.markdown("Lors de la COP21 à Paris, le 12 décembre 2015, les 196 Parties à la CCNUCC (Convention-cadre des Nations unies sur les changements climatiques) sont parvenues à un accord historique pour lutter contre le changement climatique et pour accélérer et intensifier les actions et les investissements nécessaires à un avenir durable à faible intensité de carbone. L'Accord de Paris, entré en vigueur le 4 novembre 2016, rassemble pour la première fois toutes les nations autour d'une cause commune pour entreprendre des efforts ambitieux afin de combattre le changement climatique et de s'adapter à ses conséquences, avec un soutien accru pour aider les pays en développement à le faire.")
     st.markdown("Dans le domaine de l'hôtellerie, le Partenariat international pour le tourisme (ITP), organisation mondiale regroupant les plus grandes entreprises hôtelières du monde avec 30 000 hôtels membres, a quant à lui adopté l'ambition des objectifs scientifiques qui sont au cœur de l'Accord de Paris. Une étude commandée par l’ITP souligne que l'industrie hôtelière doit réduire ses émissions de carbone de 66% d'ici 2030 et de 90% d'ici 2050 pour rester dans les limites du seuil de 2°C convenu lors de la COP21.")
+    col1, col2 = st.beta_columns(2)
+    col2.info("Source : United Nations Framework Convention on Climate Change")
 
     df = create_df_eco(hotels)
     st.markdown("## Répartition des hôtels éco-friendly et non éco-friendly")

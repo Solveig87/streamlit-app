@@ -56,11 +56,15 @@ def print_analyzes():
 
     hotels = load_json('data/hotels.json')
 
+    st.markdown("## L'accord de Paris et l'hôtellerie")
+    st.markdown("Lors de la COP21 à Paris, le 12 décembre 2015, les 196 Parties à la CCNUCC (Convention-cadre des Nations unies sur les changements climatiques) sont parvenues à un accord historique pour lutter contre le changement climatique et pour accélérer et intensifier les actions et les investissements nécessaires à un avenir durable à faible intensité de carbone. L'Accord de Paris, entré en vigueur le 4 novembre 2016, rassemble pour la première fois toutes les nations autour d'une cause commune pour entreprendre des efforts ambitieux afin de combattre le changement climatique et de s'adapter à ses conséquences, avec un soutien accru pour aider les pays en développement à le faire.")
+    st.markdown("Dans le domaine de l'hôtellerie, le Partenariat international pour le tourisme (ITP), organisation mondiale regroupant les plus grandes entreprises hôtelières du monde avec 30 000 hôtels membres, a quant à lui adopté l'ambition des objectifs scientifiques qui sont au cœur de l'Accord de Paris. Une étude commandée par l’ITP souligne que l'industrie hôtelière doit réduire ses émissions de carbone de 66% d'ici 2030 et de 90% d'ici 2050 pour rester dans les limites du seuil de 2°C convenu lors de la COP21.")
+
     df = create_df_eco(hotels)
     st.markdown("## Répartition des hôtels éco-friendly et non éco-friendly")
     fig = px.pie(df, values='nombre', names='éco-friendly')
     st.write(fig)
-    st.markdown("Les établissements écologiques sont majoritaires chez NH Hotels. La marque est en effet engagée dans la protection de l'environnement. Depuis 2008, l'empreinte carbone de ses hôtels a été réduite de **70 %**. Elle a également enregistré une réduction de **28 %** des coûts en énergie et de **30 %** des coûts en eau. Ces initiatives ont été reconnues par l'Organisation internationale de normalisation et certains de ses hôtels sont titulaires d'un certificat d'énergie durable (ISO).")
+    st.markdown("Les établissements écologiques sont majoritaires chez NH Hotels. La marque est en effet engagée dans la protection de l'environnement. Depuis 2008, l'empreinte carbone de ses hôtels a été réduite de **70 %**. Elle a également enregistré une réduction de **28 %** des coûts en énergie et de **30 %** des coûts en eau. Ces initiatives ont été reconnues par l'Organisation internationale de normalisation et certains de ses hôtels sont titulaires d'un certificat d'énergie durable (ISO 14001 et ISO 50001).")
     st.write("Plus d'informations sur [cette page](https://www.nh-hotels.fr/environnement/hotels-ecologiques-developpement-durable)")
     
     df = create_df_countries(hotels)

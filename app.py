@@ -27,7 +27,7 @@ def main():
 
     # Radio selector sur sidebar pour accéder aux différentes pages
     st.sidebar.header("Votre sélection :")
-    radio = st.sidebar.radio(label="", options=['Présentation','NH Hotels : chiffres', 'NH Hotels : recherche', 'Ntealan'])
+    radio = st.sidebar.radio(label="", options=['Présentation','NH Hotels : chiffres', 'NH Hotels : recherche', 'NTeALan'])
 
     # Page de présentation du projet
     if radio == "Présentation":
@@ -42,8 +42,8 @@ def main():
         st.markdown("Les informations suivantes vous seront données pour chaque hôtel : nom, nombre d'étoiles, une photo, et un lien vers le site de NH Hotels pour plus d'informations.")
         st.markdown("Afin de vous assurer des informations toujours à jour, notre moteur de recherche cherche en temps réel sur le site de NH Hotels, ce qui peut occasionner une certaine lenteur.")
 
-        st.markdown("**Ntealan : dictionnaire de langues africaines**")
-        st.markdown("Vous pourrez consulter sur cette page quelques articles du dictionnaire en ligne de langues africaines peu dotées Ntealan.")
+        st.markdown("**NTeALan : dictionnaire de langues africaines**")
+        st.markdown("Vous pourrez consulter sur cette page quelques articles du dictionnaire en ligne de langues africaines peu dotées NTeALan.")
         st.markdown("Nous espérons que le travail de qualité effectué par les bénévoles vous donnera envie d'investir !")
 
     # Page d'analyses des données du site de NH Hotels
@@ -54,8 +54,8 @@ def main():
     if radio == "NH Hotels : recherche":
         recherche_hotels.recherche()
         
-    # Page de présentation du dictionnaire en ligne de Ntealan
-    if radio == "Ntealan":
+    # Page de présentation du dictionnaire en ligne de NTeALan
+    if radio == "NTeALan":
         prez_ntealan.ntealan_presentation()
     
 if __name__ == "__main__":
